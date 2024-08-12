@@ -1,0 +1,38 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "neo-brutal",
+  "title": "Drive Your Productivity Higher",
+  "subtitle": "Rent the perfect car for work, play, and everything in between. No hassle, just keys."
+}
